@@ -221,7 +221,7 @@ Customizable progress indicator in the form of 2D geometric shapes
 
 ---
 
-**segmentedview**: https://github.com/czy1121/segmentedview
+**segmentedview**: https://github.com/Ccapton/segmentedview
 
 ios风格的分段控件，类似 UISegmentedControl
 
