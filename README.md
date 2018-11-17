@@ -2,9 +2,6 @@
 安卓自定义Progressbar控件汇总
 ---
 
-> 关于我，欢迎关注  
-  博客：ccapton(http://blog.csdn.net/ccapton) 微信：[Ccapton]()   
-
 **SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
 
 Seekbar with labelled intervals Like Olx FilterView Seekbar
